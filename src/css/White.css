@@ -1,0 +1,27 @@
+.white{
+    background-color: aliceblue;
+    height: 20vh;
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+    /* display: flex; */
+}
+.about{
+    background-color: rgb(221, 234, 246);
+    /* display: flex; */
+    height: 20vh;
+    text-align: center;
+    /* margin: px; */
+    padding: 20px;
+    
+}
+.end{
+    background-color: rgb(7, 8, 9);
+    /* display: flex; */
+    height: 20vh;
+    text-align: center;
+    /* margin: px; */
+    padding: 20px;
+    color: white;
+
+}
